@@ -359,7 +359,7 @@ section.special, article.special {
   text-align: center; }
 
 header p {
-  color: #d1efa0;
+  color: #c9dfa7;
   position: relative;
   margin: 0 0 1.5em 0; }
 
@@ -787,8 +787,8 @@ button,
   margin: 0 0 0 0; }
 
 #header p {
-  font-size: 1.em;
-  line-height: 1.65em; }
+  font-size: .83em;
+  line-height: 1.50em; }
 
 #header a {
   color: inherit; }
